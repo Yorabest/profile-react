@@ -1,0 +1,30 @@
+.statistics {
+    /* display: flex; */
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.title {
+    width: 290px;
+    padding: 30px;
+    color: grey;
+    background-color: lightgoldenrodyellow;
+    align-items: center;
+    text-align: center;
+
+}
+
+;
+
+.statItem {
+    padding: 50px;
+    color: red;
+}
+
+.statsList {
+    display: flex;
+    align-items: center;
+
+
+}
